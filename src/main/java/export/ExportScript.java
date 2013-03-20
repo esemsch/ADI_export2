@@ -15,6 +15,9 @@ import javax.xml.bind.JAXBException;
 import java.io.IOException;
 import java.util.List;
 
+/**
+ * This script runs the whole export.
+ */
 @SuppressWarnings("ALL")
 @Component
 public class ExportScript {
