@@ -14,6 +14,9 @@ import javax.xml.bind.JAXBException;
 import java.io.IOException;
 import java.util.ArrayList;
 
+/**
+* Some more javadoc here.
+*/
 public class ExportScriptTest {
 
     ExportScript es;
