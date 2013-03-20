@@ -4,7 +4,7 @@
 
     <groupId>ADI_export2</groupId>
     <artifactId>ADI_export2</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:git://github.com/esemsch/ADI_export2.git</connection>
